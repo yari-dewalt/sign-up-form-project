@@ -71,7 +71,7 @@ form {
     display: flex;
     flex-wrap: wrap;
     gap: 40px;
-    max-width: 900px;
+    width: 900px;
 }
 
 input {
