@@ -84,6 +84,10 @@ input {
     font-weight: bold;
 }
 
+input:valid {
+    border: 2px solid green;
+}
+
 label {
     font-size: .8rem;
     margin-bottom: 2px;
